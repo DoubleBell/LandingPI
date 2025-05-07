@@ -78,7 +78,7 @@ header .content {
     transform: translate(-50%, -50%);
 }
 
-.content h2 {
+.content h1 {
     color: #fff;
     font-size: 30px;
     margin-bottom: 50px;
@@ -141,7 +141,7 @@ header .content {
         display: block;
         height: 45px;
     }
-    .content h2 {
+    .content h1 {
         font-size: 30px;
         margin-bottom: 18px;
         -webkit-text-stroke: 1px #fff;
