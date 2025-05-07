@@ -82,7 +82,7 @@ header .content {
     color: #fff;
     font-size: 30px;
     margin-bottom: 50px;
-    font-family: "Sansation", serif;
+    font-family: "Prompt", serif;
     font-weight: 700;
     letter-spacing: 1.5px;
     text-transform: uppercase;
@@ -91,6 +91,7 @@ header .content {
 
 .btn {
     background: linear-gradient(to right, #ff9800, #a10ca4);
+    font-family: "Prompt", serif;
     border: none;
     color: #fff;
     padding: 12px 36px;
@@ -133,12 +134,6 @@ header .content {
 
 
 /* Responsive */
-
-@media (min-width: 767px) and (max-width: 991px) {
-    .content p {
-        width: 95%;
-    }
-}
 
 @media (max-width: 767px) {
     .logo {
