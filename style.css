@@ -98,7 +98,7 @@ header .content {
     text-transform: uppercase;
     border-radius: 40px;
     cursor: pointer;
-    font-weight: 600;
+    font-weight: 500;
     box-shadow: 0 0 10px rgba(255, 152, 0, 0.5);
     transition: all 0.3s ease;
     position: relative;
