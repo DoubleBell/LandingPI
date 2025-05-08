@@ -90,7 +90,7 @@ header .content {
 }
 
 .btn {
-    background: linear-gradient(to right, #ff9800, #a10ca4);
+    background: linear-gradient(to right, #ff9800, #ff9800);
     font-family: "Prompt", serif;
     border: none;
     color: #fff;
