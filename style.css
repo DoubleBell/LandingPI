@@ -80,10 +80,10 @@ header .content {
 
 .content h1 {
     color: #fff;
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 80px;
     font-family: "Prompt", serif;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     text-shadow: 0 2px 10px rgba(255, 255, 255, 0.3);
